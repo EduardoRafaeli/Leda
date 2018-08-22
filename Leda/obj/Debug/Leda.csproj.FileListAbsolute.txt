@@ -1,9 +1,0 @@
-C:\Users\Aluno\Desktop\Leda\Leda\bin\Debug\Leda.exe.config
-C:\Users\Aluno\Desktop\Leda\Leda\bin\Debug\Leda.exe
-C:\Users\Aluno\Desktop\Leda\Leda\bin\Debug\Leda.pdb
-C:\Users\Aluno\Desktop\Leda\Leda\obj\Debug\Leda.csprojResolveAssemblyReference.cache
-C:\Users\Aluno\Desktop\Leda\Leda\obj\Debug\Leda.Form1.resources
-C:\Users\Aluno\Desktop\Leda\Leda\obj\Debug\Leda.Properties.Resources.resources
-C:\Users\Aluno\Desktop\Leda\Leda\obj\Debug\Leda.csproj.GenerateResource.Cache
-C:\Users\Aluno\Desktop\Leda\Leda\obj\Debug\Leda.exe
-C:\Users\Aluno\Desktop\Leda\Leda\obj\Debug\Leda.pdb
